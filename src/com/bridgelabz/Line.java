@@ -1,5 +1,4 @@
 package LineComparison;
-
 public class Line {
     private Point start; // start point
     private Point end; // end point
